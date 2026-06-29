@@ -23,5 +23,8 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ````
+
+Esquema das cores em HSV:
+
 <img width="1016" height="750" alt="image" src="https://github.com/user-attachments/assets/0990c78b-a1c6-465d-8fa3-cc10a5979cbe" />
 
