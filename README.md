@@ -83,4 +83,8 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ````
-## Detecção de deos com keypoints
+## Detecção de libras com keypoints
+Instale os seguintes módulos:
+````
+ pip install scikit-learn mediapipe
+````
