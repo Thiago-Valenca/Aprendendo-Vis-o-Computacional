@@ -26,5 +26,8 @@ cv2.destroyAllWindows()
 
 Esquema das cores em HSV:
 
+
 <img width="1016" height="750" alt="image" src="https://github.com/user-attachments/assets/0990c78b-a1c6-465d-8fa3-cc10a5979cbe" />
+
+Normalmente as imagens em que trabalhamos estão em um _colorspace_ RGB ou BGR, o que significa que cada pixel é uma combinação das cores azul, verde e vermelho. Mas, em alguns casos, pode ser muito conveniente converter nosso _colorspace_ de RGB (nosso espaço "original") para outro _colorspace_, o que depende da aplicação ou objetivo que queremos lacançar. Para a detecção de cores, o _colorspace_ HSV é muito conveniente.____ __
 
