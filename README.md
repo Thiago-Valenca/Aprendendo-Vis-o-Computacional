@@ -31,3 +31,8 @@ Esquema das cores em HSV:
 
 Normalmente as imagens em que trabalhamos estão em um _colorspace_ RGB ou BGR, o que significa que cada pixel é uma combinação das cores azul, verde e vermelho. Mas, em alguns casos, pode ser muito conveniente converter nosso _colorspace_ de RGB (nosso espaço "original") para outro _colorspace_, o que depende da aplicação ou objetivo que queremos lacançar. Para a detecção de cores, o _colorspace_ HSV é muito conveniente.____ __
 
+O canal com o qual mais teremos contato é o _Hue_, conforme mostrado na figura acima, porque ele conterá a informação necessária das cores em nossas imagens. Se olharmos para o ciloindro de cima, veremps po seguinte:
+
+<img width="642" height="638" alt="image" src="https://github.com/user-attachments/assets/937b7bde-90fc-4477-948d-46f6e2087a9a" />
+
+Esta imagem representa como o valor do canal _Hue_ muda ao longo da circunfrência do cilindro, para representar diferentes cores.__
