@@ -1,6 +1,7 @@
 # Aprendendo Visão Computacional
 Estudo de aulas relacionadas a tópicos em visão computacional.
 
+## Detecção de cores
 Atualize o pip e instale as dependências necessárias:
 ````
 python.exe -m pip install --upgrade pip
@@ -82,3 +83,4 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ````
+## Detecção de deos com keypoints
